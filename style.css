@@ -1,0 +1,12 @@
+.number{
+    border: 40px solid blue;
+    border-radius: 0px 80px 0px 80px ;
+    height: 400px;
+    width: 500px;
+    
+    background-repeat: no-repeat;
+    background-color: aqua;
+    padding-bottom: 10px;
+    
+
+}
